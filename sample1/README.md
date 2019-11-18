@@ -1,7 +1,10 @@
+# React Native Mobile Samples - sample1
+Simplest example for creating HelloWorld mobile app and running on iOS/Android emulator.
 
 # Recreate this project
 ```
 $ react-native init app1
+$ cd app1
 ```
 
 # iOS
